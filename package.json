@@ -17,21 +17,21 @@
   },
   "homepage": "https://github.com/staeke/repro-angular#readme",
   "dependencies": {
-    "@angular/animations": "5.1.0",
-    "@angular/common": "5.1.0",
-    "@angular/compiler": "5.1.0",
-    "@angular/core": "5.1.0",
-    "@angular/forms": "5.1.0",
-    "@angular/http": "5.1.0",
-    "@angular/platform-browser": "5.1.0",
-    "@angular/platform-browser-dynamic": "5.1.0",
-    "@angular/platform-server": "5.1.0",
-    "@angular/router": "5.1.0",
-    "rxjs": "^5.5.5",
-    "typescript": "^2.6.2",
-    "zone.js": "^0.8.5"
+    "@angular/animations": "5.1.1",
+    "@angular/common": "5.1.1",
+    "@angular/compiler": "5.1.1",
+    "@angular/core": "5.1.1",
+    "@angular/forms": "5.1.1",
+    "@angular/http": "5.1.1",
+    "@angular/platform-browser": "5.1.1",
+    "@angular/platform-browser-dynamic": "5.1.1",
+    "@angular/platform-server": "5.1.1",
+    "@angular/router": "5.1.1",
+    "rxjs": "5.5.5",
+    "typescript": "2.5.2",
+    "zone.js": "0.8.18"
   },
   "devDependencies": {
-    "@angular/compiler-cli": "^5.1.0"
+    "@angular/compiler-cli": "^5.1.1"
   }
 }
